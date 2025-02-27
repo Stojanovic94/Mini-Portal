@@ -66,7 +66,6 @@ input[type="text"], input[type="password"], input[type="number"], input[type="em
     margin: 10px auto;
 }
 
-/* Dugmadi sa narandžastim tonovima */
 button {
     background-color: #5A5A5D; /* Svetlija narandžasta */
     padding: 10px 20px;
