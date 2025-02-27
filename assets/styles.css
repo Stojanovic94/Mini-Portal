@@ -57,7 +57,6 @@ input[type="text"], input[type="password"], input[type="number"], input[type="da
     border-radius: 4px;
 }
 
-/* Input polja sa narandžastim okvirima */
 input[type="text"], input[type="password"], input[type="number"], input[type="email"], input[type="date"], input[type="datetime-local"], select {
     border: 2px solid #1864a2; /* Tamniji okvir */
     color: #1c313c;
