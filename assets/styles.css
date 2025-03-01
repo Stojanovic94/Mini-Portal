@@ -86,7 +86,7 @@ button:hover {
 }
 
 button:active {
-    background-color: #FF7F50; /* Još tamnija narandžasta pri kliku */
+    background-color: #FF7F50;
 }
 
 /* Stil za linkove */
