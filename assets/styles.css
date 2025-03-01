@@ -67,7 +67,7 @@ input[type="text"], input[type="password"], input[type="number"], input[type="em
 }
 
 button {
-    background-color: #5A5A5D; /* Svetlija narandžasta */
+    background-color: #5A5A5D;
     padding: 10px 20px;
     margin: 10px 0;
     font-size: 16px;
