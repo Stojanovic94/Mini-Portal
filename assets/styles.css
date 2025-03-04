@@ -122,7 +122,7 @@ table th, table td {
 }
 
 table th {
-    background-color: #1864a2; /* Tamnija narandžasta za zaglavlje tabele */
+    background-color: #1864a2; 
 }
 
 table tr:hover {
