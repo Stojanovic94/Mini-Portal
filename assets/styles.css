@@ -126,6 +126,5 @@ table th {
 }
 
 table tr:hover {
-    background-color: #467ea5; /* Tamnija pozadina na hover */
+    background-color: #467ea5;
 }
-
